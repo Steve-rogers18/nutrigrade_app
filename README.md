@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # nutriscore_app
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# nutrigrade_app
+Nutri-Grade App for scanning barcodes and displaying Nutri-Grades for pre packaged foods.
+>>>>>>> d8a66dcb48dde48b7d072f78fe77c03034a7fd46
